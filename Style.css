@@ -1,0 +1,28 @@
+.topnavbar{
+    padding:30px;
+    background-color:black;
+}
+.Home{
+    line-height: 30px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 8px;
+    font-style:italic;
+    line-height: 30px;
+}
+.ground{
+    text-align: justify;
+    line-height: 30px;
+}
+.Attack{
+    text-align: justify;
+    line-height: 30px;
+}
+.Investigation{
+    text-align: justify;
+    line-height: 30px;
+}
